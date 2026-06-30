@@ -24,6 +24,11 @@ If you want to assemble it yourself, you will need either to buy each part separ
 
 Follow the link to the [full version](https://wokwi.com/projects/468250562996590593) or the [partial version](https://wokwi.com/projects/468253565850216449). This will be your guide on how to connect everything. Next, connect the USB Cable to the Arduino and the machine(Computer) with a USB port (this step is needed to write code from your machine to the Arduino board) 
 
+* Full version diagram
+![full_diagram](media/diagram_for_full_version.png)
+
+*Partial version diagram
+![partial_diagram](media/diagram_for_partial_version.png)
 
 ## Software setup
 
